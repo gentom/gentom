@@ -1,19 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 I'm Gento, a 23 years old Founder / CEO / CTO at two SaaS companies in Japan.  
   
-###### As An Engineer:
+#### As An Engineer:
 Systems Architect / Polyglot Programmer / Fullstack Engineer.
 
-###### Languages that I :heart:
+#### Languages that I :heart:
 Go / Rust / Nim / Elixir / Haskell / Typescript / Dart
 
-##### Technical Fields that I :heart:
+#### Technical Fields that I :heart:
 Designing Algorithms, Data Stuructures, Systems Architecture, Domain, Data Relations, Database Schema.
 
-###### My passion excluding engineering.
+#### My passion excluding engineering.
 - Creating & Enjoying Music
 - Lure Fishing
 - Playing & Watching Soccer(Football)
+
+#### Comment
+Feel free to message me at anytime.
 
 <!--
 **gentom/gentom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
