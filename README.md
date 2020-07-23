@@ -8,7 +8,7 @@ Systems Architect / Polyglot Programmer / Fullstack Engineer / Former Game Devel
 Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Dart
 
 #### Technical Fields that I :heart: :
-Designing Algorithms, Data Stuructures, Systems Architecture, Domain, Data Relations, Database Schema.
+Designing: Algorithms / Data Stuructures / Systems Architecture / Domain / Data Relations / Database Schema.
 
 #### My Research Fields :
 - Music Generation
