@@ -19,6 +19,3 @@ I also love designing Algorithms / Data Stuructures / Systems Architecture / Dom
 - Playing & Watching Soccer(Football)
 - Beach
 - Lupin The Third
-
-#### Comment
-💬 Feel free to message me at anytime.
