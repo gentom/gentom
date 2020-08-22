@@ -1,21 +1,16 @@
 ## Hi there 👋
-I'm Gento, a 23 years old Founder / CEO / CTO at two SaaS companies in Japan.  
-As An Engineer, I'm a Systems Architect / Polyglot Programmer / Fullstack Engineer / Former Game Developer.  
-I Love Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Dart). I have experienced in 27 programming languages with production-level development.  
-Also, I love designing Algorithms / Data Stuructures / Systems Architecture / Domain / Data Relations / Database Schema.
+Gento Morikawa is the Co-Founder & Director & CTO at weltall, Inc.  
+Also he is acting the President and Representative Director & CEO/CTO at One'd Technologies, Inc.  
+  
+He was born in 1997 and raised in Osaka, Japan.  
+He started writing code at the age of 17, and started his career as a professional software engineer / systems architect at the age of 18.  
+After working as a software engineer at several companies & projects, He founded weltall, Inc at the age of 21 while at university. And then he started One'd Technologies, Inc at the age of 23.  
+Both companies are developing & providing SaaSs.  
+  
+As an Engineer, He is a Systems Architect / Polyglot Programmer / Fullstack Engineer / Former Game Developer.  
+He Loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Dart). He has experienced in 27 programming languages with production-level development.  
+Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / Domain / Data Relations / Database Schema.
 
-#### My Research Fields :
+#### gentom's Research Fields :
 - Music Generation
 - Computational Narrative Intelligence
-
-#### My passion :
-- Programming as a lifestyle
-- Designing Algorithms & Data Stuructures
-- Software Development
-- Game Development
-- Enjoying Technology
-- Creating & Enjoying Music
-- Lure Fishing
-- Playing & Watching Soccer(Football)
-- Beach
-- Lupin The Third
