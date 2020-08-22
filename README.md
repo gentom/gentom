@@ -8,7 +8,7 @@ After working as a software engineer at several companies & projects, He founded
 Both companies are developing & providing SaaSs.  
   
 As an Engineer, He is a Systems Architect / Polyglot Programmer / Fullstack Engineer / Former Game Developer.  
-He Loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Dart). He has experienced in 27 programming languages with production-level development.  
+He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Dart). He has experienced in 27 programming languages with production-level development.  
 Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / Domain / Data Relations / Database Schema.
 
 #### gentom's Research Fields :
