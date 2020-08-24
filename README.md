@@ -1,4 +1,3 @@
-## Hi there 👋
 Gento Morikawa is the Co-Founder & Director & CTO at weltall, Inc.  
 Also he is acting the President and Representative Director & CEO/CTO at One'd Technologies, Inc.  
   
@@ -11,6 +10,6 @@ As an Engineer, He is a Systems Architect / Polyglot Programmer / Fullstack Engi
 He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Dart). He has experienced in 27 programming languages with production-level development.  
 Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / Domain / Data Relations / Database Schema.
 
-#### gentom's Research Fields :
+#### His Research Fields :
 - Music Generation
 - Computational Narrative Intelligence
