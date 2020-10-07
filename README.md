@@ -3,6 +3,8 @@ CEO at One'd Technologies, Inc.
 CTO at weltall, Inc.  
 I build ecosystem for the serious people who truly want to make people happy.  
   
+--  
+  
 Gento Morikawa is the Co-Founder & Director & CTO at weltall, Inc.  
 Also he is acting the President and Representative Director & CEO/CTO at One'd Technologies, Inc.  
   
