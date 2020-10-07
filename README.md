@@ -1,4 +1,7 @@
-Technopreneur / CEO at One'd Technologies, Inc. / CTO at weltall, Inc. / I build ecosystem for the serious people who truly want to make people happy.  
+Technopreneur
+CEO at One'd Technologies, Inc.
+CTO at weltall, Inc.
+I build ecosystem for the serious people who truly want to make people happy.  
   
 Gento Morikawa is the Co-Founder & Director & CTO at weltall, Inc.  
 Also he is acting the President and Representative Director & CEO/CTO at One'd Technologies, Inc.  
@@ -12,6 +15,10 @@ As an Engineer, He is a Systems Architect / Polyglot Programmer / Fullstack Engi
 He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Dart). He has experienced in 27 programming languages with production-level development.  
 Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / Domain / Data Relations / Database Schema.
 
-#### His Research Fields :
+#### His Research Fields
 - Music Generation
 - Computational Narrative Intelligence
+
+#### SaaSs that developed in my companies
+- [Onakasuita](https://onakasuita.app/) - Mobile Ordering SaaS for Restaurants/Food Courts/Stadiums (at weltall, Inc.)
+- [DEXTRE](https://dextre.app/) - B2B Marketplace SaaS for International Apparel Industry (at One'd Technologies, Inc.)
