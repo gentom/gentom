@@ -19,6 +19,6 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / 
 - Music Generation
 - Computational Narrative Intelligence
 
-#### SaaSs that developed in my companies
+#### SaaSs that developed in his companies
 - [Onakasuita](https://onakasuita.app/) - Mobile Ordering SaaS for Restaurants/Food Courts/Stadiums (at weltall, Inc.)
 - [DEXTRE](https://dextre.app/) - B2B Marketplace SaaS for International Apparel Industry (at One'd Technologies, Inc.)
