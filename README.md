@@ -18,6 +18,6 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / 
 
 ---
 
-#### in-house SaaSs that developed in his companies
+#### SaaSs that he designed & developed
 - [Onakasuita](https://onakasuita.app/) - Mobile Ordering SaaS for Restaurants/Food Courts/Stadiums (at weltall, Inc.)
 - [DEXTRE](https://dextre.app/) - B2B Marketplace SaaS for International Apparel Industry (at One'd Technologies, Inc.)
