@@ -13,7 +13,7 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / 
 ---
 
 #### His Research Fields
-- Music Generation
+- Computational Music Generation
 - Computational Narrative Intelligence
 
 ---
