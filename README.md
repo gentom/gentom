@@ -21,3 +21,9 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / 
 #### SaaSs that he designed & developed
 - [Onakasuita](https://onakasuita.app/) - Mobile Ordering SaaS for Restaurants/Food Courts/Stadiums (at weltall, Inc.)
 - [DEXTRE](https://dextre.app/) - B2B Marketplace SaaS for International Apparel Industry (at One'd Technologies, Inc.)
+
+---
+
+#### Links
+- [Linkedin](https://www.linkedin.com/in/gento-morikawa-857ab4140/)
+- [Wantedly (日本語)](https://www.wantedly.com/id/gentom)
