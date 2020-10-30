@@ -1,4 +1,6 @@
-"I build ecosystem for the serious people who truly want to make people happy with exerting their creativity."  
+Hi, I'm Gento. I build ecosystem for the serious people who truly want to make people happy with exerting their creativity.  
+
+#### Bio
 
 Gento Morikawa is the Co-Founder/Director/CTO at weltall, Inc and also Representative Director/CEO/CTO at One'd Technologies, Inc.  
   
