@@ -1,4 +1,4 @@
-Hi, I'm Gento. I build ecosystem for the serious people who truly want to make people happy with exerting their creativity.  
+Hi, I'm Gento. I'm building an ecosystem where people who seriously want to please people can exert their creativity.  
 
 ---
 
