@@ -31,5 +31,5 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / 
 ---
 
 #### Links
-- [Linkedin](https://www.linkedin.com/in/gento-morikawa-857ab4140/)
+- [Linkedin](https://www.linkedin.com/in/gentom/)
 - [Wantedly (日本語)](https://www.wantedly.com/id/gentom)
