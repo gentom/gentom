@@ -14,7 +14,7 @@ Both companies are developing & providing SaaSs.
   
 As an Engineer, He is a Systems Architect / Polyglot Programmer / Fullstack Engineer / Former Game Developer.  
 He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Common Lisp). He has experienced in 27 programming languages with production-level development.  
-Also, He loves designing Algorithms / Data Stuructures / Systems Architecture / Domain / Data Relations / Database Schema.
+Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & Data Modeling.
 
 ---
 
