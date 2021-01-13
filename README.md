@@ -5,7 +5,7 @@ I'm building an ecosystem where the people who seriously want to please people c
 
 #### Bio
 
-Gento Morikawa is the Co-Founder/Director/CTO at weltall, Inc and also Representative Director/CEO/CTO at One'd Technologies, Inc.  
+Gento Morikawa is the Founder/Director/CTO at weltall, Inc and also Representative Director/CEO/CTO at One'd Technologies, Inc.  
   
 He was born in 1997 and raised in Osaka, Japan.  
 He started writing code at the age of 17, and started his career as a professional software engineer / systems architect at the age of 18.  
