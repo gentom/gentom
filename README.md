@@ -1,5 +1,5 @@
 Hi, I'm Gento.  
-I'm building an ecosystem where the people who seriously want to please people can exert their creativity fullest.  
+I build an ecosystem where the people who seriously want to please people can exert their creativity fullest.  
 
 ---
 
@@ -13,7 +13,7 @@ After working as a software engineer at several companies & projects, He founded
 Both companies are developing & providing SaaSs.  
   
 As an Engineer, He is a Systems Architect / Polyglot Programmer / Fullstack Engineer / Former Game Developer.  
-He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript / Common Lisp). He has experienced in 27 programming languages with production-level development.  
+He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript). He has experienced in 27 programming languages with production-level development.  
 Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & Data Modeling.
 
 ---
@@ -26,7 +26,7 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & 
 
 #### SaaSs that he designed & developed
 - [Onakasuita](https://onakasuita.app/) - Mobile Ordering SaaS for Restaurants/Food Courts/Stadiums (at weltall, Inc.)
-- [DEXTRE](https://dextre.app/) - Global B2B Marketplace SaaS for International Apparel Industry (at One'd Technologies, Inc.)
+- [DEXTRE](https://dextre.app/en/) - Global B2B Marketplace SaaS for International Apparel Industry (at One'd Technologies, Inc.)
 
 ---
 
