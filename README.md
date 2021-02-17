@@ -1,5 +1,5 @@
 Hi, I'm Gento.  
-I build an ecosystem where the people who seriously want to please people can exert their creativity fullest.  
+I build an ecosystem where people who seriously want to please people can exert their creativity to the fullest.  
 
 ---
 
@@ -26,7 +26,7 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & 
 
 #### SaaSs that he designed & developed
 - [Onakasuita](https://onakasuita.app/) - Mobile Ordering SaaS for Restaurants/Food Courts/Stadiums (at weltall, Inc.)
-- [DEXTRE](https://dextre.app/en/) - Global B2B Marketplace SaaS for International Apparel Industry (at One'd Technologies, Inc.)
+- [DEXTRE](https://dextre.app/en/) - Global B2B Marketplace & Back-office SaaS for International Apparel Industry (at One'd Technologies, Inc.)
 
 ---
 
