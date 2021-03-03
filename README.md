@@ -1,5 +1,5 @@
 Hello, World. I'm Gento.  
-I build an ecosystem where people who seriously want to please people can display their max creativity.  
+I aim to build an ecosystem where people who seriously want to please people can display their max creativity.  
 
 ---
 
