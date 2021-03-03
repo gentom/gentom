@@ -21,6 +21,7 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & 
 #### His Research Fields
 - Computational Music Generation / Generative Art
 - Computational Narrative Intelligence
+- Logistics AI
 
 ---
 
