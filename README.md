@@ -1,5 +1,7 @@
 Hello, World. I'm Gento.  
 I aim to build an ecosystem where people who seriously want to please people can display their max creativity.  
+  
+日本語での詳細な自己紹介はこちら [Wantedlyプロフィール](https://www.wantedly.com/id/gentom)
 
 ---
 
@@ -33,4 +35,4 @@ Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & 
 
 #### Links
 - [Linkedin](https://www.linkedin.com/in/gentom/)
-- [Wantedly (Japanese)](https://www.wantedly.com/id/gentom)
+- [weltall, Inc.](https://weltall.com/)
