@@ -16,9 +16,7 @@ Both companies are developing & providing SaaSs.
   
 As an Engineer, He is a Systems Architect / Polyglot Programmer / Fullstack Engineer / Former Game Developer.  
 He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript). He has experienced in 27 programming languages with production-level development.  
-Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & Data Modeling.  
-  
-専門はソフトウェアエンジニアリングで、ソフトウェア/データ構造設計を得意としております。DDDベースの設計が好きです。プロダクションレベルでは27言語で開発を行って参りました。特に好きな言語はGo/Rust/Nim/Elixir/Haskell/TypeScriptです。
+Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & Data Modeling.
 
 ---
 
