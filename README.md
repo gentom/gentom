@@ -23,14 +23,14 @@ Also, He loves designing Software, Algorithms, Data Stuructures, Systems Archite
 
 # His Research Field
 - Computational Music Generation / Generative Art / Narrative Intelligence
+- Optimizations using DeepLearning.
 - Software Engineering & Design
 
 # SaaSs that he designed & developed
-DEXTRE (https://dextre.app) (at One'd Technologies, Inc.)
-DEXTRE is the Global B2B EC/Product Master/Back Office Management SaaS under development for user-definable cloud-based ERP in manufacturing and sales.
-
-Onakasuita (https://onakasuita.app) (at weltall, Inc.)
-Onakasuita is a multilingual mobile ordering and POS SaaS for restaurants, food courts and stadiums.
+- DEXTRE (https://dextre.app) (at One'd Technologies, Inc.)
+  - DEXTRE is the Global B2B EC/Product Master/Back Office Management SaaS under development for user-definable cloud-based ERP in manufacturing and sales.
+- Onakasuita (https://onakasuita.app) (at weltall, Inc.)
+  - Onakasuita is a multilingual mobile ordering and POS SaaS for restaurants, food courts and stadiums.
 
 # About His Companies
 
@@ -40,7 +40,7 @@ Currently, we are developing and providing a global B2B EC/Back Office/Product M
 We are also developing several other products in parallel, and we are working every day to build an ecosystem that can manage global/local transactions and master "liquid assets" in both directions in a highly flexible manner, and that works in conjunction with the B2B/B2C mall under development.
 
 ## weltall
-weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs and restaurant operators. In addition, weltall has partnerships with Yokohama F. Marinos and Cerezo Osaka, and provides technical support as an official sponsor.
+weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Footbal League) and restaurants. In addition, weltall has partnerships with Yokohama F. Marinos and Cerezo Osaka, and provides technical support as an official sponsor.
 
 ---
 
