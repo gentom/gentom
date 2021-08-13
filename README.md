@@ -5,31 +5,42 @@ I aim to build an ecosystem where people who seriously want to please people can
 
 ---
 
-#### Bio
+# Bio
+Gento Morikawa is
+- Founder/Director/CTO at weltall, Inc.
+- Representative Director/CEO/CTO at One'd Technologies, Inc.
+- Systems Architect
+- Polyglot Programmer
 
-Gento Morikawa is the Founder/Director/CTO at weltall, Inc and also Representative Director/CEO/CTO at One'd Technologies, Inc.  
-  
-He was born in 1997 and raised in Osaka, Japan.  
-He started writing code at the age of 17, and started his career as a professional software engineer / systems architect at the age of 18.  
-After working as a software engineer at several companies & projects, He founded weltall, Inc at the age of 21 while at university. And then he started One'd Technologies, Inc at the age of 23.  
-Both companies are developing & providing SaaSs.  
-  
-As an Engineer, He is a Systems Architect / Polyglot Programmer / Fullstack Engineer / Former Game Developer.  
-He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / Typescript). He has experienced in 27 programming languages with production-level development.  
-Also, He loves designing Algorithms / Data Stuructures / Systems Architecture & Data Modeling.
+He was born and raised in Osaka, Japan in 1997.
+He started developing software at the age of 17 and started working as a professional software engineer at the age of 18.
+While in college, he founded the technology company weltall, Inc. and while running weltall, he also founded the technology company One'd Technologies, Inc. and currently runs two companies. Both companies develop and provide their own cloud-based softwares.
 
----
+His creation theme has always been "to create an environment and tools that allow people who are serious about creating and expressing something to focus more on their creativity".
 
-#### His Research Fields
-- Computational Music Generation / Generative Art
-- Computational Narrative Intelligence
-- Logistics AI
+He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / TypeScript). He has experienced in 27 programming languages in production.
+Also, He loves designing Software, Algorithms, Data Stuructures, Systems Architecture and Data Models.
 
----
+# His Research Field
+- Computational Music Generation / Generative Art / Narrative Intelligence
+- Software Engineering & Design
 
-#### SaaSs that he designed & developed
-- [Onakasuita](https://onakasuita.app/) - Mobile Ordering SaaS for Restaurants/Food Courts/Stadiums (at weltall, Inc.)
-- [DEXTRE](https://dextre.app/en/) - Global B2B EC & Back-office & Product Master SaaS (at One'd Technologies, Inc.)
+# SaaSs that he designed & developed
+DEXTRE (https://dextre.app) (at One'd Technologies, Inc.)
+DEXTRE is the Global B2B EC/Product Master/Back Office Management SaaS under development for user-definable cloud-based ERP in manufacturing and sales.
+
+Onakasuita (https://onakasuita.app) (at weltall, Inc.)
+Onakasuita is a multilingual mobile ordering and POS SaaS for restaurants, food courts and stadiums.
+
+# About His Companies
+
+## One'd Technologies
+One'd Technologies was founded with the theme of creating environments and tools that allow all "creators" to focus on being more creative.
+Currently, we are developing and providing a global B2B EC/Back Office/Product Master SaaS called "DEXTRE", which is being developed to be a user-definable cloud ERP for the manufacturing and sales fields.
+We are also developing several other products in parallel, and we are working every day to build an ecosystem that can manage global/local transactions and master "liquid assets" in both directions in a highly flexible manner, and that works in conjunction with the B2B/B2C mall under development.
+
+## weltall
+weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs and restaurant operators. In addition, weltall has partnerships with Yokohama F. Marinos and Cerezo Osaka, and provides technical support as an official sponsor.
 
 ---
 
