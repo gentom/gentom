@@ -9,8 +9,9 @@ I aim to build an ecosystem where people who seriously want to please people can
 Gento Morikawa is
 - Founder/Director/CTO at weltall, Inc.
 - Representative Director/CEO/CTO at One'd Technologies, Inc.
-- Systems Architect
+- Software/Systems Architect
 - Polyglot Programmer
+- Former Game Developer
 
 He was born and raised in Osaka, Japan in 1997.
 He started developing software at the age of 17 and started working as a professional software engineer at the age of 18.
