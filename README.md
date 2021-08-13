@@ -19,7 +19,8 @@ While in college, he founded the technology company weltall, Inc. and while runn
 
 His creation theme has always been "to create an environment and tools that allow people who are serious about creating and expressing something to focus more on their creativity".
 
-He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / TypeScript). He has experienced in 27 programming languages in production.
+He loves Programming Languages(especially Elixir / Haskell / TypeScript / Rust / Nim / C#). He has experienced in 27 programming languages in production.
+However, his main languages are TypeScript, Go, Python, Haskell and Elixir.
 Also, He loves designing Software, Algorithms, Data Stuructures, Systems Architecture and Data Models.
 
 # His Research Fields
