@@ -22,9 +22,9 @@ His creation theme has always been "to create an environment and tools that allo
 He loves Programming Languages (especially Go / Rust / Nim / C# / Elixir / Haskell / TypeScript). He has experienced in 27 programming languages in production.
 Also, He loves designing Software, Algorithms, Data Stuructures, Systems Architecture and Data Models.
 
-# His Research Field
+# His Research Fields
 - Computational Music Generation / Generative Art / Narrative Intelligence
-- Optimizations using DeepLearning.
+- Supply chain optimization (by Machine Learning/Deep Learning)
 - Software Engineering & Design
 
 # SaaSs that he designed & developed
