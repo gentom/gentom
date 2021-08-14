@@ -30,7 +30,7 @@ Also, He loves designing Software, Algorithms, Data Stuructures, Systems Archite
 
 # SaaSs that he designed & developed
 - DEXTRE (https://dextre.app) (at One'd Technologies, Inc.)
-  - DEXTRE is a global B2B EC/Back Office/Product Master SaaS that aims to be an ultra-flexible, user-definable, globally bi-directionally connected cloud ERP for the manufacturing and sales fields.
+  - DEXTRE is a Global B2B EC/Back Office/Product Master management SaaS that aims to be an ultra-flexible, user-definable, globally bi-directionally connected cloud ERP for the manufacturing and sales fields.
 - Onakasuita (https://onakasuita.app) (at weltall, Inc.)
   - Onakasuita is a multilingual mobile ordering and POS SaaS for restaurants, food courts and stadiums.
 
