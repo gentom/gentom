@@ -17,7 +17,7 @@ He was born and raised in Osaka, Japan in 1997.
 He started developing software at the age of 17 and started working as a professional software engineer at the age of 18.
 While in college, he founded the technology company weltall, Inc. and while running weltall, he also founded the technology company One'd Technologies, Inc. and currently runs two companies. Both companies develop and provide their own cloud-based softwares.
 
-His creation theme has always been "to create an environment and tools that allow people who are serious about creating and expressing something to focus more on their creativity".
+His creation theme is "to create an environment and tools that allow people who are seriously trying to "create and express" something to focus more on their creativity. Make it easy for anyone to use, even if they don't know the principles. Democratize things that are only accessible to a few people.".
 
 He loves Programming Languages(especially Elixir / Haskell / TypeScript / Rust / Nim / C#). He has experienced in 27 programming languages in production.
 However, his main languages are TypeScript, Go, Python, Haskell and Elixir.
