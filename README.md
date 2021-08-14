@@ -39,7 +39,7 @@ Also, He loves designing Software, Algorithms, Data Stuructures, Systems Archite
 ## One'd Technologies
 One'd Technologies was founded with the theme of creating environments and tools that allow all "creators" to focus on being more creative.
 Currently, we are developing and providing a global B2B EC/Back Office/Product Master SaaS called "DEXTRE", which is being developed to be a user-definable cloud ERP for the manufacturing and sales fields.
-We are also developing several other products in parallel, and we are working every day to build an ecosystem that can manage global/local transactions and master "liquid assets" in both directions in a highly flexible manner, and that works in conjunction with the B2B/B2C mall under development.
+We are also developing several other products in parallel, and we are working every day to build a global ecosystem that can manage global/local transactions and master "liquid assets" in both directions in a highly flexible manner, and that works in conjunction with the B2B/B2C mall under development.
 
 ## weltall
 weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Footbal League) and restaurants. In addition, weltall has partnerships with Yokohama F. Marinos and Cerezo Osaka, and provides technical support as an official sponsor.
