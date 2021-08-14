@@ -43,6 +43,7 @@ We are also developing several other products in parallel, and we are working ev
 
 ## weltall
 weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Footbal League) and restaurants. We are also an official sponsor and technology partner of Yokohama F. Marinos and Cerezo Osaka, both of which are professional soccer clubs in Japan's first division.
+
 ---
 
 #### Links
