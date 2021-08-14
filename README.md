@@ -42,8 +42,7 @@ Currently, we are developing and providing a global B2B EC/Back Office/Product M
 We are also developing several other products in parallel, and we are working every day to build a global ecosystem that can manage global/local transactions and master "liquid assets" in both directions in a highly flexible manner, and that works in conjunction with the B2B/B2C mall under development.
 
 ## weltall
-weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Footbal League) and restaurants. In addition, weltall has partnerships with Yokohama F. Marinos and Cerezo Osaka, and provides technical support as an official sponsor.
-
+weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Footbal League) and restaurants. We are also an official sponsor and technology partner of Yokohama F. Marinos and Cerezo Osaka, both of which are professional soccer clubs in Japan's first division.
 ---
 
 #### Links
