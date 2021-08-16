@@ -37,7 +37,7 @@ Also, He loves designing Software, Algorithms, Data Stuructures, Systems Archite
 # About His Companies
 
 ## One'd Technologies
-One'd Technologies was founded with the theme of "Connecting the joy of creation". Currently, we are developing and providing DEXTRE, a global B2B EC/Back Office/Product Master SaaS, aiming to become a user-defined cloud ERP in the manufacturing and sales fields. We are also developing several other products in parallel. We aim to build a global ecosystem that can seamlessly link with B2B/B2C malls currently under development, manage global/local transactions, and manage master data of "liquid assets" in both directions with high flexibility.
+One'd Technologies was founded with the theme of "Connecting the joy of creation". Currently, we are developing and providing DEXTRE, a Global B2B EC/Back Office/Product Master management SaaS that aims to be an ultra-flexible, user-definable, globally bi-directionally connected cloud ERP for the manufacturing and sales fields. We are also developing several other products in parallel. We aim to build a global ecosystem that can seamlessly link with B2B/B2C malls currently under development, manage global/local transactions, and manage master data of "liquid assets" in both directions with high flexibility.
 
 ## weltall
 weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Football League) and restaurants. We are also an official sponsor and technology partner of Yokohama F. Marinos and Cerezo Osaka, both of which are professional football clubs in Japan's top division.
