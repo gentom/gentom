@@ -28,12 +28,6 @@ Also, He loves designing Software, Algorithms, Data Stuructures, Systems Archite
 - Supply chain optimization (by Machine Learning/Deep Learning)
 - Software Engineering & Design
 
-# SaaSs that he designed & developed
-- DEXTRE (https://dextre.app) (at One'd Technologies, Inc.)
-  - DEXTRE is a Global B2B EC/Back Office/Product Master management SaaS that aims to be an ultra-flexible, user-definable, globally bi-directionally connected cloud ERP for the manufacturing and sales fields.
-- Onakasuita (https://onakasuita.app) (at weltall, Inc.)
-  - Onakasuita is a multilingual mobile ordering and POS SaaS for restaurants, food courts and stadiums.
-
 # About His Companies
 
 ## One'd Technologies
@@ -43,6 +37,12 @@ We are developing a global connected ERP that enables flexible definition of mas
 
 ## weltall
 weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Football League) and restaurants. We are also an official sponsor and technology partner of Yokohama F. Marinos and Cerezo Osaka, both of which are professional football clubs in Japan's top division.
+
+# SaaSs designed and developed by him
+- DEXTRE (https://dextre.app) (at One'd Technologies, Inc.)
+  - DEXTRE is a Global B2B EC/Back Office/Product Master management SaaS that aims to be an ultra-flexible, user-definable, globally bi-directionally connected cloud ERP for the manufacturing and sales fields.
+- Onakasuita (https://onakasuita.app) (at weltall, Inc.)
+  - Onakasuita is a multilingual mobile ordering and POS SaaS for restaurants, food courts and stadiums.
 
 ---
 
