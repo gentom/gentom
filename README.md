@@ -50,3 +50,4 @@ weltall develops and provides a variety of mobile ordering and POS solutions, in
 - [Linkedin](https://www.linkedin.com/in/gentom/)
 - [Wantedlyプロフィール](https://www.wantedly.com/id/gentom)
 - [weltall, Inc.](https://weltall.com/)
+- [One'd Technologies, Inc.](https://oned-technologies.com)
