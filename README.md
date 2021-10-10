@@ -27,6 +27,7 @@ Also, He loves designing Software, Algorithms, Data Stuructures, Systems Archite
 - Computational Music Generation / Generative Art / Narrative Intelligence
 - Supply chain optimization (by Machine Learning/Deep Learning)
 - Software Engineering & Design
+- Robotics (for manufacturing)
 - Decentralized Autonomous Organization
 
 # About His Companies
