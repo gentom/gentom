@@ -23,7 +23,7 @@ He loves Programming Languages(especially Elixir / Haskell / TypeScript / Rust /
 However, his main languages are TypeScript, Go, Python, Haskell and Elixir.
 Also, He loves designing Software, Algorithms, Data Stuructures, Systems Architecture and Data Models.
 
-# His Research Fields / Technological interests
+# His Research Fields / Technological Interests
 - Computational Music Generation / Generative Art / Narrative Intelligence
 - Supply chain optimization (by Machine Learning/Deep Learning)
 - Software Engineering & Design
