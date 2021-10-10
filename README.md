@@ -17,7 +17,7 @@ He was born and raised in Osaka, Japan in 1997.
 He started developing software at the age of 17 and started working as a professional software engineer at the age of 18.
 While in college, he founded the technology company weltall, Inc. and while running weltall, he also founded the technology company One'd Technologies, Inc. and currently runs two companies. Both companies develop and provide their own cloud-based softwares.
 
-His creation theme is "to create an environment and tools that allow people who are seriously trying to "create and express" something to focus more on their creativity. Make it easy for anyone to use, even if they don't know the principles. Democratize things that are only accessible to a few people.".
+His creation theme is "Connecting the joy of creation".  
 
 He loves Programming Languages(especially Elixir / Haskell / TypeScript / Rust / Nim / C#). He has experienced in 27 programming languages in production.
 However, his main languages are TypeScript, Go, Python, Haskell and Elixir.
@@ -36,7 +36,7 @@ Although it is currently in beta version, it is being used by many domestic and 
 We are developing a global connected ERP that enables flexible definition of master data and bi-directional data management with various functions including B2B EC, and a global B2B/B2C mall that enables global and local transactions between all manufacturers and buyers, including production material manufacturers, and we are working to build a global master data ecosystem that can utilize and link data across organizations and services.
 
 ## weltall
-weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Football League) and restaurants. We are also an official sponsor and technology partner of Yokohama F. Marinos and Cerezo Osaka, both of which are professional football clubs in Japan's top division.
+weltall develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Football League) and restaurants. We are also an official sponsor of [Yokohama F. Marinos](https://www.f-marinos.com/) and technology partner of [Cerezo Osaka](https://www.cerezo.jp/).
 
 # SaaSs designed and developed by him
 - DEXTRE (https://dextre.app) (at One'd Technologies, Inc.)
