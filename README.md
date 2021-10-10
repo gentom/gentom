@@ -37,7 +37,7 @@ Although it is currently in beta version, it is being used by many domestic and 
 We are developing a global connected ERP that enables flexible definition of master data and bi-directional data management with various functions including B2B EC, and a global B2B/B2C mall that enables global and local transactions between all manufacturers and buyers, including production material manufacturers, and we are working to build a global master data ecosystem that can utilize and link data across organizations and services.
 
 ## weltall
-[weltall](https://weltall.com/) develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Football League) and restaurants. We are also an official sponsor of [Yokohama F. Marinos](https://www.f-marinos.com/) and technology partner of [Cerezo Osaka](https://www.cerezo.jp/).
+[weltall](https://weltall.com/) develops and provides a variety of mobile ordering and POS solutions, including the multilingual mobile ordering SaaS "Onakasuita", which is used by J-League clubs(Japan Professional Football League) and restaurants. We are also an official sponsor of [Yokohama F. Marinos](https://www.f-marinos.com/) and a technology partner of [Cerezo Osaka](https://www.cerezo.jp/).
 
 # SaaSs designed and developed by him
 - DEXTRE (https://dextre.app) (at One'd Technologies, Inc.)
