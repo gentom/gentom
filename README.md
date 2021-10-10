@@ -17,7 +17,7 @@ He was born and raised in Osaka, Japan in 1997.
 He started developing software at the age of 17 and started working as a professional software engineer at the age of 18.
 While in college, he founded the technology company weltall, Inc. and while running weltall, he also founded the technology company One'd Technologies, Inc. and currently runs two companies. Both companies develop and provide their own cloud-based softwares.
 
-His creation theme is "Connecting the joy of creation".  
+His creation mission is "Connecting the joy of creation".  
 
 He loves Programming Languages(especially Elixir / Haskell / TypeScript / Rust / Nim / C#). He has experienced in 27 programming languages in production.
 However, his main languages are TypeScript, Go, Python, Haskell and Elixir.
@@ -31,7 +31,7 @@ Also, He loves designing Software, Algorithms, Data Stuructures, Systems Archite
 # About His Companies
 
 ## One'd Technologies
-[One'd Technologies](https://oned-technologies.com/ja/) was founded with the theme of "Connecting the joy of creation". Currently, we are developing and providing DEXTRE, a Global B2B EC/Back Office/Product Master management SaaS that aims to be an ultra-flexible, user-definable, globally bi-directionally connected cloud ERP for the manufacturing and sales fields.
+[One'd Technologies](https://oned-technologies.com/ja/) was founded with the mission of "Connecting the joy of creation". Currently, we are developing and providing DEXTRE, a Global B2B EC/Back Office/Product Master management SaaS that aims to be an ultra-flexible, user-definable, globally bi-directionally connected cloud ERP for the manufacturing and sales fields.
 Although it is currently in beta version, it is being used by many domestic and international manufacturers and buyers for global transactions.
 We are developing a global connected ERP that enables flexible definition of master data and bi-directional data management with various functions including B2B EC, and a global B2B/B2C mall that enables global and local transactions between all manufacturers and buyers, including production material manufacturers, and we are working to build a global master data ecosystem that can utilize and link data across organizations and services.
 
