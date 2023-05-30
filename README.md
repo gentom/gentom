@@ -14,9 +14,3 @@ Gento Morikawa is
 He was born and raised in Osaka, Japan in 1997.
 He started developing software at the age of 17 and started working as a professional software engineer at the age of 18.
 While in college, he founded the technology company weltall, Inc. and while running weltall, he also founded the technology company One'd Technologies, Inc.
-
-# About His Companies
-
-## One'd Technologies
-[One'd Technologies](https://oned-technologies.com/ja/) was founded with the mission of "Connecting the joy of creation". Currently, we are developing and providing DEXTRE, an interactive, no-code sales management all-in-one platform with various functions, including global B2B EC that aims to be an ultra-flexible, user-definable, globally bi-directionally connected cloud ERP for the manufacturing and sales fields.  
-We are developing a global connected ERP that enables flexible definition of master data and bi-directional data management with various functions including B2B EC, and a global B2B/B2C mall that enables global and local transactions between all manufacturers and buyers, including production material manufacturers, and we are working to build a global master data ecosystem that can utilize and link data across organizations and services.
