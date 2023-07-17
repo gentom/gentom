@@ -1,5 +1,4 @@
-Hello, World. I'm Gento.  
-As CEO of One'd Technologies, I want to light the spark which enables to create a society filled with the joy of creation. And also I am building a Maker/Wholesaler's Business OS and CloudSCM. 
+As the CEO of One'd Technologies, I aspire to ignite a spark that enables us to create a society filled with the joy of creation. I am also building a Business OS for manufacturers, wholesalers, and retailers' supply-chains as global public goods.
   
 ---
 
